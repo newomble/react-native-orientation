@@ -1,3 +1,6 @@
+# TODO
+  Can't test with current equipment, need to revisit with device.
+
 ## React Native Orientation
 [![npm version](https://badge.fury.io/js/react-native-orientation.svg)](https://badge.fury.io/js/react-native-orientation)
 
